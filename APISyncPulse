@@ -1,0 +1,22 @@
+
+---
+
+**APISyncPulse**  
+**Description:**  
+Monitors groups of API endpoints for sync disruptions, inconsistent response times, and drift patterns.
+
+```markdown
+# APISyncPulse - Grouped API Monitor with Drift Detection
+
+APISyncPulse scans synchronized endpoints and highlights latency shifts, outages, and response anomalies.
+
+## Features
+- Multi-endpoint monitoring  
+- Drift alerting  
+- CSV/JSON log export
+
+## Usage
+```bash
+git clone https://github.com/your-username/APISyncPulse.git
+cd APISyncPulse
+python monitor.py
