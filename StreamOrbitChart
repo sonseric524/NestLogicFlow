@@ -1,0 +1,22 @@
+
+---
+
+**StreamOrbitChart**  
+**Description:**  
+Renders real-time numeric data in a smooth, orbit-style scrolling visual layout for live dashboards.
+
+```markdown
+# StreamOrbitChart - Live Stream Visualizer
+
+StreamOrbitChart transforms incoming metric values into a circular, orbiting chart with smooth transitions.
+
+## Features
+- Unique orbit-style layout  
+- Realtime metric scroll  
+- Matplotlib-powered
+
+## Usage
+```bash
+git clone https://github.com/your-username/StreamOrbitChart.git
+cd StreamOrbitChart
+python visualize.py
